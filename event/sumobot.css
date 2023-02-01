@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.image{
+    margin:0.8em;
+}
+
+.description{
+    margin: 2%;
+    background-color: #317AC1;
+    width: 46%;
+    height: 8em;
+    text-align: center;
+}
+
+.info {
+    margin:2%;
+    background-color: #317AC1;
+    width: 46%;
+    height: 8em;
+    text-align: center;
+}
+
+.text{
+    display: flex;
+    flex-flow: row;
+    margin-left: auto;
+    margin-right: auto;
+    width:100% ;
+}

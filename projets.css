@@ -1,0 +1,37 @@
+.nav{
+    display:flex;
+    flex-flow: row wrap;
+    background-color:orange;
+    padding-bottom: 1em;
+}
+
+.cut{
+    margin-left: 12em;
+    margin-right: 12em;
+}
+
+.projet{
+    margin: 3em;
+    margin-top: 0;
+    display: flex;
+    flex-flow: row;
+    background-color: #317AC1;
+}
+
+.image{
+    margin : 1em;
+}
+
+.titre{
+    margin-left:18em;
+    margin-right:60%;
+}
+
+.titreProjet{
+    margin-bottom: 0;
+    margin-left:2em;
+    margin-right: 80%;
+    padding-left:1em;
+    padding-top:0.5em;
+    background-color: #317AC1;
+}

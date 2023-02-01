@@ -1,0 +1,18 @@
+.event{
+    display: flex;
+    flex-flow: row;
+    margin-left: 5em;
+    margin-right: auto;
+    margin-bottom: 6em;
+
+}
+
+.description{
+    display: flex;
+    flex-flow: column;
+    background-color: #317AC1;
+    margin-left:3em;
+    vertical-align: middle;
+    width: 50%;
+    padding-left:2em;
+}

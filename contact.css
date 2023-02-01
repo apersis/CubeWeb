@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    flex-flow:row;
+}
+
+#msg{
+    height: 10em;
+    width:30em;
+}
+
+#mail{
+    width:15em;
+}
+
+.input{
+    margin:1em;
+    width: 10em;
+}
+
+.form{
+    display: flex;
+    flex-flow:column;
+}
+
+.image{
+    margin:auto
+}

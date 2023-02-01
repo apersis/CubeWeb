@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.Profil{
+    margin:5em;
+}

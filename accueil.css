@@ -1,0 +1,96 @@
+body{
+    background-color: #384454 ;
+}
+
+p{
+    font-family: Arial;
+}
+
+h3{
+    font-size:x-large;
+}
+
+.logo-titre{
+    background-color:#317AC1;
+    display:flex;
+    flex-flow: row;
+    justify-content: center;
+    margin-bottom: 5em;
+}
+
+.presentation{
+    background-color:#317AC1;
+    margin-bottom: 5em;
+}
+
+.news{
+    background-color:#317AC1;
+    text-align: center;
+}
+
+.tabEvent{
+    background-color:#317AC1;
+    display: flex;
+    flex-flow: row;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-bottom: 5em;
+}
+
+.photoEvent{
+    justify-content: right;
+    width:auto;
+    border-right: solid 23px #384454;
+    background-color: #384454 ;
+}
+
+.contentEvent{
+    display: flex;
+    flex-flow:column;
+    justify-content: center;
+    padding: 5px;
+    text-align: center;
+}
+
+.lieu-date{
+    min-width:fit-content;
+    display: flex;
+    flex-flow: column nowrap;
+    padding: 5px;
+    justify-content: center;
+    border-left: solid 23px #384454;
+    text-align: center;
+}
+
+/*****************************************************FOOTER**************************************************************/
+
+footer{
+    margin:-7px;
+    height:7em;
+    display:flex;
+    flex-flow:row;
+    justify-content:space-between;
+    background-color:silver;
+    text-align: center;
+}
+
+#gauche{
+    display:flex;
+    flex-flow:column;
+    margin:0.5em;
+    margin-left:4em;
+    background-color:grey;
+    width:8em;
+    justify-content: center;
+}
+
+#droite{
+    width:8em;
+    display:flex;
+    flex-flow:column;
+    margin:0.5em;
+    margin-right:4em;
+    background-color:grey;
+    justify-content: center;
+}
